@@ -1,0 +1,14 @@
+//input file
+#include<iostream>
+#include<string.h>
+using namespace std;
+int main()
+{
+int a,b,c;
+a=1;
+b=2;
+c=a+b;
+cout<<"Sum is"<<c<<endl;
+return 0;
+}
+
